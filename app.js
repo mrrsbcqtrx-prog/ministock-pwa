@@ -1,4 +1,4 @@
-// Configuración de Supabase
+// app.js
 const SUPABASE_URL = 'https://tuglvhwytfwzuhxojufb.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1Z2x2aHd5dGZ3enVoeG9qdWZiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc2MjQzNjcsImV4cCI6MjA5MzIwMDM2N30.dwluBcqGxTdJD5YCUF7EfpZmUCgIofYJs3UhDi4144k'; // Copia la clave anon/public
 
